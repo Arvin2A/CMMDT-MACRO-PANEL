@@ -1,0 +1,7 @@
+{
+    "CastDuration": 2.5,
+    "ShakeEnabled": false,
+    "ShakeSpeed": 0.5,
+    "ShowVisualIndicators": true,
+    "Control": 0.2
+}
